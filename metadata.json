@@ -1,0 +1,6 @@
+{
+  "name": "Kasbflow Agency Portfolio",
+  "description": "A single-page portfolio for Kasbflow Digital Marketing Agency, featuring services, testimonials, and recent work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
